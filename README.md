@@ -8,6 +8,15 @@ Built from scratch in portable **C11 + SDL2**. There are no external assets —
 every texture, sprite, sound, and the music are generated from math — so it stays
 small and cross-compiles cleanly to PS5 homebrew.
 
+![STANDSTILL gameplay](media/standstill-preview.gif)
+
+▶ **[Watch the full gameplay video](media/standstill-gameplay.mp4)** (with sound)
+
+|  |  |
+|:--:|:--:|
+| ![Title](media/title.png) | ![Time frozen — the world goes blue](media/freeze.png) |
+| ![Textured combat](media/gameplay.png) | ![Enemy variety: spitter + brute](media/enemies.png) |
+
 ## Features
 - Framebuffer **textured raycaster** — procedural brick / metal / stone / hazard /
   circuit walls, textured floor & ceiling, distance fog, vignette
