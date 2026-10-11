@@ -1,0 +1,16 @@
+# compiled binary + objects
+/standstill
+*.o
+
+# runtime shader/pipeline cache written by the game
+shader_cache/
+
+# dev captures / recordings — not part of the game
+shots*/
+vframes*/
+vchk/
+*.png
+*.mkv
+*.mp4
+*.wav
+*.log
